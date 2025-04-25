@@ -1,0 +1,17 @@
+[
+  { "id": "boudin-balls",   "name": "Boudin Balls",             "station": "fry",   "cookTime": 420, "price": 10.00 },
+  { "id": "wings",          "name": "504 Wings",                "station": "fry",   "cookTime": 540, "price": 14.00 },
+  { "id": "crawfish-pies",  "name": "Cajun Crawfish Pies",      "station": "pizza", "cookTime": 600, "price": 12.00 },
+  { "id": "tuna-dip",       "name": "Smoked Tuna Dip",          "station": "cold",  "cookTime": 120, "price": 11.00 },
+  { "id": "pineapple-shrimp","name": "Pineapple Fried Shrimp",  "station": "fry",   "cookTime": 480, "price": 13.00 },
+  { "id": "clubhouse-nachos","name": "Clubhouse Nachos",        "station": "cold",  "cookTime": 300, "price": 12.00 },
+  { "id": "chips-salsa",    "name": "Chips & Salsa",            "station": "cold",  "cookTime": 60,  "price": 6.00  },
+  { "id": "chips-queso",    "name": "Chips & Queso",            "station": "cold",  "cookTime": 90,  "price": 7.00  },
+  { "id": "hangover-burger","name": "The Hangover Burger",      "station": "grill", "cookTime": 720, "price": 16.00 },
+  { "id": "classic-burger", "name": "Classic Ride Burger",      "station": "grill", "cookTime": 600, "price": 14.00 },
+  { "id": "12in-pizza",     "name": "12\" Pizza",               "station": "pizza", "cookTime": 780, "price": 15.00 },
+  { "id": "garlic-bread",   "name": "Cheesy Garlic Bread",      "station": "pizza", "cookTime": 420, "price": 8.00  },
+  { "id": "steak-frites",   "name": "Steak Frites",             "station": "grill", "cookTime": 900, "price": 28.00 },
+  { "id": "shrimp-monique", "name": "Shrimp Monique",           "station": "boil",  "cookTime": 720, "price": 24.00 },
+  { "id": "gulf-catch",     "name": "Gulf Catch Creole",        "station": "grill", "cookTime": 840, "price": 25.00 }
+]
